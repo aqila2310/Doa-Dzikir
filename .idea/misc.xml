@@ -12,9 +12,19 @@
         <entry key="app/src/main/res/drawable/bg_splash_screen.xml" value="0.278125" />
         <entry key="app/src/main/res/drawable/dot_active.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/dot_inactive.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_chv_right.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_detail_artikel.xml" value="0.13722826086956522" />
         <entry key="app/src/main/res/layout/activity_dzikir_pagi.xml" value="0.13722826086956522" />
+        <entry key="app/src/main/res/layout/activity_dzikir_petang.xml" value="0.19882246376811594" />
+        <entry key="app/src/main/res/layout/activity_harian_dzikir_doa.xml" value="0.22708333333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_pagi_petang_dzikir.xml" value="0.2151268115942029" />
+        <entry key="app/src/main/res/layout/activity_qauliyah_shalat.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_quliyah_shalat.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/layout/activity_setiap_saat_dzikir.xml" value="0.22708333333333333" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.13722826086956522" />
+        <entry key="app/src/main/res/layout/row_item_artikel.xml" value="0.21014492753623187" />
+        <entry key="app/src/main/res/layout/row_item_dzikir_doa.xml" value="0.178125" />
       </map>
     </option>
   </component>

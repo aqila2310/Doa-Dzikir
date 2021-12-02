@@ -5,15 +5,15 @@ import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
-class DzikirPetangActivity : AppCompatActivity() {
+class QauliyahShalatActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
-        setContentView(R.layout.activity_dzikir_petang)
+        setContentView(R.layout.activity_qauliyah_shalat)
 
-        val rvDzikirPetang = findViewById<RecyclerView>(R.id.rv_dzikir_petang)
-        rvDzikirPetang.layoutManager = LinearLayoutManager(this)
-        rvDzikirPetang.adapter = DzikirDoaAdapter(DataDzikirDoa.listDzikirPetang)
+        val rvQauliyah = findViewById<RecyclerView>(R.id.rv_qauliyah_shalat)
+        rvQauliyah.layoutManager = LinearLayoutManager(this)
+        rvQauliyah.adapter = DzikirDoaAdapter(DataDzikirDoa.listQauliyah)
     }
 
     override fun onSupportNavigateUp(): Boolean {
